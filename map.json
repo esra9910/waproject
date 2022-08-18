@@ -1,12 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "format":"json",
-         "target":"DigitalesLernlabor_MAP\/DigitalesLernlabor.json"
-        }
-    },
  "height":34,
  "infinite":false,
  "layers":[
@@ -103,23 +95,23 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"DigitalesLernlabor_MAP\/TileSets\/TileSet_02.tsx"
+         "source":"TileSets\/TileSet_02.tsx"
         }, 
         {
          "firstgid":49,
-         "source":"DigitalesLernlabor_MAP\/TileSets\/LLCS_Tileset01.tsx"
+         "source":"TileSets\/LLCS_Tileset01.tsx"
         }, 
         {
          "firstgid":91,
-         "source":"DigitalesLernlabor_MAP\/TileSet_03.tsx"
+         "source":"TileSet_03.tsx"
         }, 
         {
          "firstgid":91,
-         "source":"DigitalesLernlabor_MAP\/TileSets\/TileSet_03_Alt.tsx"
+         "source":"TileSets\/TileSet_03_Alt.tsx"
         }, 
         {
          "firstgid":100,
-         "source":"DigitalesLernlabor_MAP\/TileSets\/TileSet04.tsx"
+         "source":"TileSets\/TileSet04.tsx"
         }],
  "tilewidth":32,
  "type":"map",
